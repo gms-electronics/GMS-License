@@ -1,4 +1,4 @@
-# The GMS-License
+# The GMS General Source Code Availability License
 Our default software License and related explanations.
 
 ## Why we needed an own License
@@ -17,8 +17,8 @@ we had to draw some limitations to not harm our business activities
 that contribute the financial means to develop and sponsor
 free software. 
 
-Therfor following categories of commercial applications need additional licenses: 
-* Any party that wants to offer our software hosted to third parties against a payment, solely or in conjunction with other products 
+Therfor following categories of commercial applications require the seek a different license from the copyright holder: 
+* Any party that wants to offer our software hosted to third parties against a payment, solely or in conjunction with other products.
 
 # FAQ regarding our License
 
@@ -57,4 +57,3 @@ The table below shows you the most common use cases.
 | 6. The copyright holder may or may not provide this software to a third party with a more permissive license.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | If you ask us we might allow a wider use of our software with a more permissive license, usually against a sponsorship fee or a contribution to our development cost                                                                                                                                                                                               |
 | 7. Any violation of the conditions above terminates any right to use the source code or any binary form of it.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | If we determine that you use our software in ways that are permissive, we will terminate your license immediately.                                                                                                                                                                                                                                                 |
 | THIS SOFTWARE IS PROVIDED BY COPYRIGHT HOLDER "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL COPYRIGHT HOLDER BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. | A disclaimer protecting us from any damages deriving from the use of our software.                                                                                                                                                                                                                                                                                 |
-
