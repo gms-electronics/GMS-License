@@ -39,6 +39,12 @@ We felt they were all too long and too complicated and wanted something easier t
 ## Can I reuse this license for my own projects?
 Absolutely, feel free to dedistribute your own projects with this license. [We made a template](licensetemplate.md) just for people like you :)
 
+## What kind of projects are adapt for this kind of license?
+Our company is a spin off of a large consumer electronics repair company, we have made this license to allow our customers to use it and anybody who might find use for it in an end user setting. Our software is not made for direct competitors or simple resellers. An example for you might be software that you want to commercially redistribute but also allow for it to be used for free in selfhosted (commercial or not) situations. 
+
+## Who is this license not made for? 
+Anybody who wants either total free float of the software or total restrictions on the source code. 
+
 # License Matrix 
 The table below shows you the most common use cases.
 | Scenario                                                                                                                        | Is my use allowed?                    |
@@ -48,7 +54,6 @@ The table below shows you the most common use cases.
 | I am an IT consultant and want to sell this software to my customer as a service with a recurring fee or as an installation.    | Contact us for a licensing agreement. |
 | I am a hosting service and my customer installed this software on a server rented and / or owned by the customer.               | YES                                   |
 | I am a hosting service and want to offer the software as a click to install package.                                            | Contact us for a licensing agreement. |
-
 
 # Detailed License Explanation
 | License Text                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | Meaning                                                                                                                                                                                                                                                                                                                                                            |
