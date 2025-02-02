@@ -36,6 +36,9 @@ In most cases there is absolutely no issue with that, we reserve the right to re
 ## Why didn't we pick a preexisting license such as Affero or other dual use licenses?
 We felt they were all too long and too complicated and wanted something easier to understand.
 
+## Can I reuse this license for my own projects?
+Absolutely, feel free to dedistribute your own projects with this license. [We made a template](licensetemplate.md) just for people like you :)
+
 # License Matrix 
 The table below shows you the most common use cases.
 | Scenario                                                                                                                        | Is my use allowed?                    |
