@@ -25,6 +25,9 @@ Therfor following categories of commercial applications require the seek a diffe
 
 # FAQ regarding our License
 
+## Where can I find the full license text?
+Mostly in our repositories, but also [here](License.md).
+
 ## What am I allowed to do? 
 You are allowed to use our software in any way you see fit on your own infrastructure and seek any kind of support to do so.
 This includes you being a repair shop and using our software or using it an IT department or any other direct usage. 
