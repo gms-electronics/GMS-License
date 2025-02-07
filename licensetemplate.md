@@ -9,7 +9,7 @@ Redistribution and use in source and binary forms, with or without modification,
 3. All advertising materials mentioning features or use of this software must display the following acknowledgement:
 This product includes software developed by [`<copyright holder>`](https://copyrightholder.com).
 4. Neither the name of the copyright holder nor the names the copyright holder nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.
-5. Neither the source code nor a binary form may be used in a manner that entirely or primarily derives from the value of the software or modified version, or offering a product or service that accomplishes for users the primary purpose of the source code.
+5. Neither the source code nor a binary form may be used to offer a product or a service to solely accomplish for users the primary purpose of the source code.
 6. The copyright holder may or may not provide this software to a third party with a more permissive license. 
 7. Any brands, logos and trademarks remain ownership of the copyright owner.  
 8. Any violation this list of conditions terminates any right to use the source code or any binary form of it. 
