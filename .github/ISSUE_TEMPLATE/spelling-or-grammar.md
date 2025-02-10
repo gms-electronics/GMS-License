@@ -1,6 +1,6 @@
 ---
 name: Spelling or Grammar
-about: Describe this issue template's purpose here.
+about: Help us improve our writing.
 title: "[Spelling / Grammaer]"
 labels: enhancement
 assignees: fthobe
