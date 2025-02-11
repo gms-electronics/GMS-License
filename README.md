@@ -9,11 +9,11 @@ GMS is actively contributing to various open source projects.
 While we support open source and OSS software, some of the software products we produce
 are specifically made for our industry.
 
-We are proud supporters of the following categories of usage:
-* Self operated usage of our software (also with help of 3rd parties such as consultants and / or software developers)
-* IT departments that want to use our software internally
-* Any company of any size that wants to use our software internally or with customers
-* Any NGO or education institution
+We are proud supporters of the following categories of usage (with or without external support to run it):
+* Self operated usage of our software;
+* IT departments that want to use our software internally;
+* Any company of any size that wants to use our software internally or with customers to provide services through our tools and not the tools themselves;
+* Any NGO or education institution internally or for educational and social causes.
 
 While we would love to contribute just for pleasure of contributing, 
 we had to draw some limitations to not harm our business activities 
@@ -22,6 +22,8 @@ free software.
 
 Therfor following categories of commercial applications require the seek a different license from the copyright holder: 
 * Any party that wants to offer our software hosted to third parties against a payment, solely or in conjunction with other products.
+
+If you need help running our services, feel free to reach out to us.
 
 # FAQ regarding our License
 
@@ -39,7 +41,7 @@ This includes offering our software without or with only minor modifications to 
 ## What if I want to offer this software as a services to third parties? 
 In most cases there is absolutely no issue with that, we reserve the right to require you to close a license agreement with us to contribute financially to our software development though. Reach out to us and we can discuss a free fair use policy (for NGOs and education sector usage) or a sponsoring for our repositories in exchange for unrestricted licenses for your commercial use. 
 
-## Why didn't we pick a preexisting license such as Affero or other dual use licenses?
+## Why didn't we pick a pre-existing license such as Affero or other dual use licenses?
 We felt they were all too long and too complicated and wanted something easier to understand.
 
 ## Can I reuse this license for my own projects?
