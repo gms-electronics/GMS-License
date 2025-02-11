@@ -1,4 +1,7 @@
-# GMS Dual Use License Template
+# GMS Source-available License Template
+
+> [!TIP]
+> While most other content by us is licensed under our own license, this template is absolutely unrestricted for any use licensed under [CC License](https://creativecommons.org/share-your-work/cclicenses/). We never the less advise you always to seek professional help by a lawyer regarding the licensing of your own repositories.
 
 Copyright (c) `<year>`,  `<copyright holder>`. All rights reserved.
 

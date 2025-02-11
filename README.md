@@ -2,7 +2,7 @@
 <img width="20%" src="https://github.com/user-attachments/assets/4a937cf8-3288-4bf0-a4f4-fe079ad0fd6b" alt="GMS logo">
 
 # The GMS General Source Code Availability License
-Our default software License and related explanations.
+Our default software license and related explanations.
 
 ## Why we needed an own License
 GMS is actively contributing to various open source projects. 
@@ -20,8 +20,8 @@ we had to draw some limitations to not harm our business activities
 that contribute the financial means to develop and sponsor
 free software. 
 
-Therfor following categories of commercial applications require the seek a different license from the copyright holder: 
-* Any party that wants to offer our software hosted to third parties against a payment, solely or in conjunction with other products.
+Therefor following categories of commercial applications require you to seek a different license from the copyright holder: 
+* Any party that wants to offer our software hosted to third parties against a payment, solely or in conjunction with other products to primarily reproduce features of our software.
 
 If you need help running our services, feel free to reach out to us.
 
@@ -46,6 +46,7 @@ We felt they were all too long and too complicated and wanted something easier t
 
 ## Can I reuse this license for my own projects?
 Absolutely, feel free to dedistribute your own projects with this license. [We made a template](licensetemplate.md) just for people like you :)
+Our license template itself is licensed as creative common allowing you to do whatever you want with it. 
 
 ## What kind of projects are adapt for this kind of license?
 Our company is a spin off of a large consumer electronics repair company, we have made this license to allow our customers to use it and anybody who might find use for it in an end user setting. Our software is not made for direct competitors or simple resellers. An example for you might be software that you want to commercially redistribute but also allow for it to be used for free in selfhosted (commercial or not) situations. 
