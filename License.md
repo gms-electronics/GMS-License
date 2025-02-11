@@ -1,3 +1,6 @@
+# The GMS Source Available License
+Any content in this repository not covered by the following license is listed in the [AdditionalLicenses.md](/AdditionalLicenses.md) file.
+
 Copyright (c) 2025 GMS. All rights reserved.
 
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
